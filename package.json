@@ -1,0 +1,22 @@
+{
+  "name": "buildenv",
+  "version": "1.0.0",
+  "description": "Building enviroment with nunjucks",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp",
+    "frontend"
+  ],
+  "author": "Rafał Kozłowski",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.17.5",
+    "gulp": "^3.9.1"
+  },
+  "dependencies": {
+    "time-require": "^0.1.2"
+  }
+}
